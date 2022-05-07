@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SEO translation"
-date:   2019-10-26 22:11:16
+date:   2021-10-26 22:11:16
 categories: blog
 ---
 
