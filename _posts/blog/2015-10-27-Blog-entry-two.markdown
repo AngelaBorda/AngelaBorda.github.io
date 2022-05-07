@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog entry two"
+title:  "Blockchain terminology"
 date:   2020-10-27 18:11:16
 categories: blog
 ---
