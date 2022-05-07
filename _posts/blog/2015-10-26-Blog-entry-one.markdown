@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog entry one"
+title:  "SEO translation"
 date:   2019-10-26 16:51:11
 categories: blog
 ---
