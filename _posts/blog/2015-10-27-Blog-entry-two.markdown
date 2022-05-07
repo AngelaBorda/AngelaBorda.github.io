@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blockchain terminology"
-date:   2020-10-27 18:11:16
+date:   2021-10-27 18:11:16
 categories: blog
 ---
 
