@@ -11,7 +11,7 @@ When translating iGaming content, understanding the industry-specific terms is c
 
 | **English Term**            | **Spanish Translation**           | **Description**                                                                      |
 |-----------------------------|-----------------------------------|--------------------------------------------------------------------------------------|
-| **White Label Solution**     | **Solución de Marca Blanca**      | A complete iGaming platform offered to operators with minimal setup requirements.   |
+| **White Label Solution**     | **Solución de Marca Blanca**      |  A fully developed product or service that can be rebranded and customized by a company to market as its own.   |
 | **RTP (Return to Player)**   | **RTP (Retorno al Jugador)**      | Percentage of all wagered money returned to players over time in a game.            |
 | **Free Spins**               | **Giros Gratis**                  | Bonus feature in slots where players can spin without wagering money.               |
 | **No Deposit Bonus**         | **Bono sin Depósito**             | A promotion that doesn’t require players to deposit funds to receive a bonus.       |
