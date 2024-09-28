@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "iGaming Terminology: English vs. Spanish Comparison"
-date:   2023-08-27 
+date:   2022-08-27 
 categories: blog
 ---
 
